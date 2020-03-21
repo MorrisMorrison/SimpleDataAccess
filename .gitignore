@@ -1,0 +1,6 @@
+bin/
+obj/
+/packages/
+SimpleDataAccess/bin/
+SimpleDataAccess/obj/
+SimpleDataAccess/packages/
